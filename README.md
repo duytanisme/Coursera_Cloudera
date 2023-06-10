@@ -1,7 +1,7 @@
 # Coursera_Cloudera
 Modern Big Data Analysis with SQL Specialization
 
-Last Updates: 21/05/2023
+Last Updates: 10/06/2023
 
 # Course Learn Path
 
