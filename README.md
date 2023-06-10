@@ -7,8 +7,8 @@ Last Updates: 21/05/2023
 
 The courses enlisted as follows:
 
-**C1: Foundations for Big Data Analysis with SQL
+**C1: Foundations for Big Data Analysis with SQL**
 
-**C2: Analyzing Big Data with SQL
+**C2: Analyzing Big Data with SQL**
 
-**C3: Managing Big Data in Clusters and Cloud Storage
+**C3: Managing Big Data in Clusters and Cloud Storage**
