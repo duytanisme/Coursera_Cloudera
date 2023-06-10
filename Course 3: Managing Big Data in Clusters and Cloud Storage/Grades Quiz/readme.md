@@ -1,1 +1,1 @@
-# This folder includes Graded Quiz answers (avg. 100%)
+**This folder includes Graded Quiz answers (avg. 100%)**
